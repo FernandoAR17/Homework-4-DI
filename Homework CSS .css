@@ -1,0 +1,33 @@
+#site{
+    width: auto;
+    height: auto;
+    margin-top: 0;
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-right: auto;
+    background-color: dodgerblue;
+    font-family: Helvetica, Sans-Serif;
+    color: black;
+    font-size: 120%
+}
+
+#header{
+    width: auto;
+    height: auto;
+    background-color: dodgerblue;
+    
+}
+
+#cuerpo{
+    width: auto;
+    height: auto;
+    background-color:darkgray
+}
+
+#footer{
+    width: auto;
+    height: auto;
+    background-color: dodgerblue
+}
+
+
